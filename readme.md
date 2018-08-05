@@ -3,7 +3,7 @@
 Script to randomly apply Geometric Transformations/Noise on an image, generating an output slightly different (or not). 
 This is usually used in Machine Learning for data augmentation.
 
-#Requeriments
+# Requeriments
 
 - Python
 - OpenCV
